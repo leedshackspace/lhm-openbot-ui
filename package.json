@@ -1,0 +1,9 @@
+{
+  "name": "lhm-openbot-ui",
+  "version": "1.0.0",
+  "description": "UI for OpenBot (LHM App)",
+  "main": "index.js",
+  "repository": "git@github.com:leedshackspace/lhm-openbot-ui.git",
+  "author": "Thomas Judd-Cooper <me@tomjuddcooper.co.uk>",
+  "license": "MIT"
+}
